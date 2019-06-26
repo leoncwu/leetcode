@@ -10,7 +10,7 @@ public:
       }
       max_length=max(max_length,(i-prv_loc));
       search[(s.at(i))] = i;
-    }
+    } 
     return max_length;
   }
 };
