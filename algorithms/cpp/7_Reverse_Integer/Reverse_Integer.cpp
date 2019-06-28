@@ -2,6 +2,7 @@
 using std::cout;
 using std::endl;
 
+
 class Solution {
 public:
   int reverse(int x) {
